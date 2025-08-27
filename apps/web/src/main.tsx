@@ -8,6 +8,7 @@ const router = createRouter({
 	defaultPreload: "intent",
 	defaultPendingComponent: () => <Loader />,
 	context: {},
+	basepath: import.meta.env.DEV ? "/" : "/payme",
 });
 
 declare module "@tanstack/react-router" {
