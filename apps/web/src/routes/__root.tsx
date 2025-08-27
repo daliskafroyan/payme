@@ -26,10 +26,7 @@ export const Route = createRootRouteWithContext<RouterAppContext>()({
 			},
 		],
 		links: [
-			{
-				rel: "icon",
-				href: "/favicon.ico",
-			},
+			// Removed favicon link since no favicon file exists
 		],
 	}),
 });
