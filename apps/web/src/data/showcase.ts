@@ -17,9 +17,9 @@ export const banks: ShowcaseItem[] = [
     logo: getAssetPath("/images/logos/mandiri-logo.jpeg")
   },
   {
-    name: "Bank BCA",
-    description: "0300947808",
-    logo: getAssetPath("/images/logos/bca-logo.png")
+    name: "Blu by BCA Digital",
+    description: "000868755772",
+    logo: getAssetPath("/images/logos/blu-logo.png")
   },
   {
     name: "Bank Jago",

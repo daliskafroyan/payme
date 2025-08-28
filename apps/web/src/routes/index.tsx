@@ -12,11 +12,11 @@ function HomeComponent() {
 	return (
 		<>
 			{/* Header Section */}
-			<GridContainer className="mb-12">
+			{/* <GridContainer className="mb-12">
 				<h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-5xl lg:text-6xl">
 					daliskafroyan.github.io/payme
 				</h1>
-			</GridContainer>
+			</GridContainer> */}
 
 			<GridContainer className="mb-3">
 				<p className="px-2 font-mono text-sm font-medium tracking-widest text-blue-500 dark:text-blue-400 uppercase">
